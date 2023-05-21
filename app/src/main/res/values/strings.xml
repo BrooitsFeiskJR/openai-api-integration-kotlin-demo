@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">api-openai-integration-sample</string>
+    <string name="tv_title_home_screen">Digite seu input aqui</string>
+    <string name="btn_search_home_screen">Pesquisar</string>
+</resources>

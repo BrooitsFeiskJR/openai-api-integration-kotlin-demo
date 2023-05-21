@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ivGroceryCartHeight">300dp</dimen>
+    <dimen name="tv_size_welcome_screen">32sp</dimen>
+    <dimen name="margin_top_welcome_screen">60dp</dimen>
+    <dimen name="margin_top_tv_welcome_screen">20dp</dimen>
+    <dimen name="margin_top_tv_sub_title_welcome_screen">12dp</dimen>
+    <dimen name="text_size_tv_sub_title_welcome_screen">16sp</dimen>
+    <dimen name="margin_top_button_welcome_screen">30dp</dimen>
+    <dimen name="text_size_title_home_screen">24sp</dimen>
+    <dimen name="main_margin_top_home_screen">20dp</dimen>
+</resources>
