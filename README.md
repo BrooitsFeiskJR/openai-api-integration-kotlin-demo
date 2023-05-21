@@ -25,11 +25,11 @@ Build o projeto e certifique-se de que não há erros.
 ## Uso
 No vídeo tutorial disponível no YouTube, você aprenderá como usar o Chat GPT da OpenAI no desenvolvimento Android usando Kotlin. O vídeo cobre os seguintes tópicos:
 
-Configuração do ambiente de desenvolvimento
-Chamada da API do Chat GPT
-Processamento da resposta da API
-Integração com o aplicativo Android
-Certifique-se de assistir ao vídeo para obter uma explicação detalhada de cada etapa.
+- Configuração do ambiente de desenvolvimento
+- Chamada da API do Chat GPT
+- Processamento da resposta da API
+- Integração com o aplicativo Android
+- Certifique-se de assistir ao vídeo para obter uma explicação detalhada de cada etapa.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrou algum problema ou deseja melhorar o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
