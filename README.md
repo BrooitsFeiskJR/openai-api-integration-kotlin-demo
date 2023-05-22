@@ -31,6 +31,9 @@ No vídeo tutorial disponível no YouTube, você aprenderá como usar o Chat GPT
 - Integração com o aplicativo Android
 - Certifique-se de assistir ao vídeo para obter uma explicação detalhada de cada etapa.
 
+## Acompanhe o tutorial no Youtube
+Link: https://www.youtube.com/watch?v=32PwbJsoFzY&t=1520s
+
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrou algum problema ou deseja melhorar o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
